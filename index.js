@@ -9,5 +9,3 @@ function nowServing (arr){
   }
   return arr.shift();
 }
-
-
